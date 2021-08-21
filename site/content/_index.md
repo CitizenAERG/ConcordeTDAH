@@ -1,5 +1,5 @@
 ---
-title: Great coffee with a conscience
+title: Great conscience with a great coffee
 subtitle: Support sustainable farming while enjoying a cup
 image: img/blog-index.jpg
 blurb:
