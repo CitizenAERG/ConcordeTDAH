@@ -1,9 +1,9 @@
 ---
-title: Great conscience with a great coffee
-subtitle: Support sustainable farming while enjoying a cup
-image: img/alevision-co-d-1fy75fh_s-unsplash.jpg
+title: Concorde TDAH
+subtitle: Association de soutien aux adultes TDAH
+image: img/hannah-busing-zyx1bk9mqma-unsplash.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: L'association
   text: Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
@@ -27,7 +27,7 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
+  heading: Nos valeurs
   text: Coffee is an amazing part of human culture but it has a dark side too –
     one of colonialism and mindless abuse of natural resources and human lives.
     We want to turn this around and return the coffee trade to the drink’s
